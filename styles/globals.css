@@ -13,3 +13,28 @@ html,
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+.logo {
+    font-family: 'Bitter', serif;
+}
+
+.search-btn {
+    font-size: 24px;
+    padding: 12px 30px;
+    color: white;
+    background-color: #F76707;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 48px;
+
+
+}
+
+.search-input {
+    border: 1px solid #CED4DA;
+    height: 48px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    padding: 0 15px;
+}
